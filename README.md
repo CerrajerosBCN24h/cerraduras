@@ -1,6 +1,6 @@
 # cerraduras
 La gracia de este proyecto es coger una web de cerraduras de seguridad y hacerla lo más adecuada al usuario mediante el empleo de la mejor programación posible.
-Las cerraduras de seguridad son una necesidad que se da hoy en día en muchas viviendas de Barcelona, 
+Las <a href="https://www.cerrajerosbcn24h.barcelona/cerraduras-de-seguridad/">cerraduras de seguridad</a> son una necesidad que se da hoy en día en muchas viviendas de Barcelona, 
 Si no puede colocar otra llave en su llavero o prefiere controlar la seguridad de su casa desde su teléfono inteligente, elija una cerradura inteligente.
 
 Las cerraduras electrónicas utilizan un código programable en el teclado en lugar de una llave. Estas cerraduras ofrecen mayor seguridad y comodidad, ya que no hay que perder las llaves.
